@@ -37,6 +37,8 @@ Users should be able to:
 
 ## My process
 
+Quick sketch of the containers I though I would need. Next I started organsing the HTML before applying CSS. I styled the fonts and colors first, then when I was happy, I worked on positioning and alignmening the elements on the page. I worked mobile first and added a media query for the desktop layout.
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -48,12 +50,12 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+First time I've used the 'picture' tag. I used it to switch between the mobile and desktop images depending on the screen size. 
 
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Positioning and aligning elements. I'm Looking forward to learning grid.
 
 
 ## Author
